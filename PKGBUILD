@@ -1,6 +1,6 @@
 # Maintainer: Daniel Landau <daniel.landau@iki.fi>
 
-pkgname=thunderbird-conversations
+pkgname=thunderbird-conversations-git
 pkgver=r1302.d41cbd2
 pkgrel=1
 pkgdesc="GMail-like conversation view for Thunderbird"
